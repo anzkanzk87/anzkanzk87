@@ -54,7 +54,7 @@
 
 ### 📗Projects
 
-#### 파이널 프로젝트_MoneyMate
+#### Final Project_MoneyMate
 <a href="https://github.com/KH-FInal-Jo/moneymate">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 </a>
@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/googleslides-FBBC04?style=for-the-badge&logo=googleslides&logoColor=white"> 
 </a>
 
-#### 세미 프로젝트_Travel Maker
+#### Semi Project_Travel Maker
 <a href="https://github.com/4-TravelMaker/TravelMaker">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 </a>
