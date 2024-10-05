@@ -14,8 +14,9 @@
 </h3>
 
 <p style="font-size: 1.1em; color: #58A6FF;">
-AI와 머신러닝을 통해 혁신적인 솔루션을 만들어내는 개발자 강신욱입니다!<br>
-데이터로부터 인사이트를 추출하고, 지능형 시스템을 구축하는 것을 즐깁니다.
+AI와 머신러닝으로 창의성을 구현하는 개발자 강신욱입니다.<br>
+대중음악과 예술을 사랑하며, 기술을 통해 창의적인 솔루션을 만드는 것을 목표로 하고 있습니다.<br>
+데이터로부터 인사이트를 추출하고, 지능형 시스템을 구축하여 미래를 그려갑니다.
 </p>
 
 <h3 style="border-bottom: 2px solid #79C0FF; padding-bottom: 10px;">
@@ -58,6 +59,7 @@ AI와 머신러닝을 통해 혁신적인 솔루션을 만들어내는 개발자
     <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white">
+    <img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=Hugging-Face&logoColor=black">
 </div>
 
 <h3 style="border-bottom: 2px solid #79C0FF; padding-bottom: 10px;">
@@ -88,8 +90,22 @@ AI와 머신러닝을 통해 혁신적인 솔루션을 만들어내는 개발자
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
     </a>
   </div>
-</div>
 
+  <div style="width: 30%; min-width: 250px; background-color: #0D1117; border-radius: 10px; padding: 15px; margin: 10px;">
+    <h4 style="color: #58A6FF;">AI 음악 생성 프로젝트</h4>
+    <p>RNN을 이용한 음악 생성 시스템으로, AI가 창작하는 새로운 멜로디</p>
+    <a href="https://github.com/anzkanzk87/ai-music-generator">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+  </div>
+
+  <div style="width: 30%; min-width: 250px; background-color: #0D1117; border-radius: 10px; padding: 15px; margin: 10px;">
+    <h4 style="color: #58A6FF;">AI 미디어 아트</h4>
+    <p>GAN과 AI 기술을 활용한 예술 작품 생성 프로젝트</p>
+    <a href="https://github.com/anzkanzk87/ai-media-art">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+  </div>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
