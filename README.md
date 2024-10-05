@@ -30,16 +30,19 @@ AI와 머신러닝으로 창의성을 구현하는 개발자 강신욱입니다.
 <a href="https://www.linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"> 
 </a>
-<a href="https://www.notion.so/92acb205f97246fba025ea86bfc8f3a7">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-</a>
 
 <h3 style="border-bottom: 2px solid #79C0FF; padding-bottom: 10px;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> DEV's log
 </h3>
 
+<!-- Velog 링크 -->
 <a href="https://velog.io/@anzkanzk88/posts" target="_blank">
     <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog Badge">
+</a>
+
+<!-- Notion 링크 -->
+<a href="https://www.notion.so/your-notion-link" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge">
 </a>
 
 
