@@ -99,7 +99,5 @@ AI를 통해 창의성을 구현하는 개발자 손민정입니다!<br>
     </a>
   </div>
 </div>
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB6C1,FFC0CB,FDEEF4,FFDEE9&height=120&section=footer&fontColor=FF69B4&font=Cookie)
-
-
+</div>
