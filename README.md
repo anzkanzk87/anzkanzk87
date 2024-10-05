@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB6C1,FFC0CB,FDEEF4,FFDEE9&height=300&section=header&text=AI%20Developer%20Min%20Jung&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Crafting%20Cute%20and%20Fun%20AI%20Solutions&descAlignY=51&descAlign=62&fontColor=FF69B4&fontAlign=50&font=Cookie)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB6C1,FFC0CB,FDEEF4,FFDEE9&height=300&section=header&text=AI%20Developer%20Min%20Jung&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Crafting%20Cute%20and%20Fun%20AI%20Solutions&descAlignY=51&descAlign=62&fontColor=FF69B4&fontAlign=50)
 
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjung-ai&count_bg=%23FF69B4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://github.com/minjung-ai)
 
@@ -99,5 +99,6 @@ AI를 통해 창의성을 구현하는 개발자 손민정입니다!<br>
     </a>
   </div>
 </div>
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB6C1,FFC0CB,FDEEF4,FFDEE9&height=120&section=footer&fontColor=FF69B4&font=Cookie)
-</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB6C1,FFC0CB,FDEEF4,FFDEE9&height=120&section=footer&fontColor=FF69B4)
+
