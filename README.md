@@ -1,6 +1,7 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=AI%20Developer%20SINWOOK&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Crafting%20Intelligence,%20Coding%20the%20Future&descAlignY=51&descAlign=62)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=89CFF0,ADD8E6,B0E0E6,AFEEEE,87CEFA&height=300&section=header&text=AI%20Developer%20SINWOOK&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Crafting%20Intelligence,%20Coding%20the%20Future&descAlignY=51&descAlign=62&fontColor=FFFFFF&fontAlign=50)
+
 
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanzkanzk87&count_bg=%23FF69B4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://github.com/anzkanzk87)
 
