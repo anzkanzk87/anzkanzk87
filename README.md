@@ -1,53 +1,95 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:EEFF00,100:a82da8&height=300&section=header&text=Han%20Kyu&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cool%20AI%20Developer%20😎&descAlignY=51&descAlign=62)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=AI%20Developer%20SINWOOK&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Crafting%20Intelligence,%20Coding%20the%20Future&descAlignY=51&descAlign=62)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Developer-00FFFF?style=for-the-badge&logo=artificial-intelligence&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Code-Ninja-FF00FF?style=for-the-badge&logo=codio&logoColor=white"/>
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanzkanzk87&count_bg=%23FF69B4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://github.com/anzkanzk87)
+
+<div style="display: flex; align-items: flex-start;">
+<img src="https://github-readme-stats.vercel.app/api?username=anzkanzk87&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anzkanzk87&layout=compact&theme=tokyonight" />
+</div>
+
+<h3 style="border-bottom: 2px solid #79C0FF; padding-bottom: 10px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> 안녕하세요
+</h3>
+
+<p style="font-size: 1.1em; color: #58A6FF;">
+AI와 머신러닝을 통해 혁신적인 솔루션을 만들어내는 개발자 강신욱입니다!<br>
+데이터로부터 인사이트를 추출하고, 지능형 시스템을 구축하는 것을 즐깁니다.
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hankyu&show_icons=true&theme=synthwave" alt="Han Kyu's GitHub stats" />
-</p>
+<h3 style="border-bottom: 2px solid #79C0FF; padding-bottom: 10px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="25" height="25" /> Contact
+</h3>
 
-<h3 align="center">🚀 Tech Arsenal 🚀</h3>
+<a href="mailto:anzkanzk88@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+</a>
+<a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"> 
+</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</p>
+<h3 style="border-bottom: 2px solid #79C0FF; padding-bottom: 10px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> DEV's log
+</h3>
 
-<h3 align="center">🎮 Epic Projects 🎮</h3>
+<a href="https://velog.io/@anzkanzk88">
+    <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> 
+</a>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/hankyu/ai-game-bot">
-        <img src="https://img.shields.io/badge/AI_Game_Bot-FF00FF?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <p>Unbeatable AI for popular online games</p>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hankyu/meme-generator">
-        <img src="https://img.shields.io/badge/Meme_Generator-00FFFF?style=for-the-badge&logo=github&logoColor=black" />
-      </a>
-      <p>AI-powered meme creation tool</p>
-    </td>
-  </tr>
-</table>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=anzkanzk88)](https://github.com/anzkanzk87/velog-readme-stats)
 
-<h3 align="center">🤙 Let's Connect 🤙</h3>
+<h3 style="border-bottom: 2px solid #79C0FF; padding-bottom: 10px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tech Stack
+</h3>
 
-<p align="center">
-  <a href="mailto:hankyu@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/hankyu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/hankyu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
+<div style="display:flex; flex-direction:row; flex-wrap: wrap; justify-content: center; gap: 5px;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+    <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white">
+</div>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=0:EEFF00,100:a82da8&height=200&section=footer&text=Code%20Hard,%20Play%20Harder&fontSize=30&fontColor=ffffff)
+<h3 style="border-bottom: 2px solid #79C0FF; padding-bottom: 10px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Projects
+</h3>
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <div style="width: 30%; min-width: 250px; background-color: #0D1117; border-radius: 10px; padding: 15px; margin: 10px;">
+    <h4 style="color: #58A6FF;">AI 이미지 생성 프로젝트</h4>
+    <p>GAN을 활용한 고해상도 이미지 생성 시스템</p>
+    <a href="https://github.com/anzkanzk87/ai-image-generator">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+  </div>
+  
+  <div style="width: 30%; min-width: 250px; background-color: #0D1117; border-radius: 10px; padding: 15px; margin: 10px;">
+    <h4 style="color: #58A6FF;">자연어 처리 챗봇</h4>
+    <p>BERT 기반 다국어 지원 챗봇 시스템</p>
+    <a href="https://github.com/anzkanzk87/nlp-chatbot">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+  </div>
+  
+  <div style="width: 30%; min-width: 250px; background-color: #0D1117; border-radius: 10px; padding: 15px; margin: 10px;">
+    <h4 style="color: #58A6FF;">추천 시스템 개발</h4>
+    <p>협업 필터링을 이용한 영화 추천 시스템</p>
+    <a href="https://github.com/anzkanzk87/recommendation-system">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+  </div>
+</div>
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
