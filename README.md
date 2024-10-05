@@ -38,9 +38,10 @@ AI와 머신러닝으로 창의성을 구현하는 개발자 강신욱입니다.
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> DEV's log
 </h3>
 
-<a href="https://velog.io/@anzkanzk88/posts">
+<a href="https://velog.io/@anzkanzk88/posts" target="_blank">
     <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog Badge">
 </a>
+
 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=anzkanzk88)](https://github.com/anzkanzk87/velog-readme-stats)
