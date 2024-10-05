@@ -36,12 +36,12 @@ AI와 머신러닝으로 창의성을 구현하는 개발자 강신욱입니다.
 </h3>
 
 <!-- Velog 링크 -->
-<a href="https://velog.io/@anzkanzk88/posts" target="_blank">
+<a href="https://velog.io/@anzkanzk88/posts">
     <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog Badge">
 </a>
 
 <!-- Notion 링크 -->
-<a href="https://www.notion.so/your-notion-link" target="_blank">
+<a href="https://www.notion.so/92acb205f97246fba025ea86bfc8f3a7">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge">
 </a>
 
