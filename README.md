@@ -21,25 +21,34 @@ AI와 머신러닝으로 창의성을 구현하는 개발자 강신욱입니다.
 </p>
 
 <h3 style="border-bottom: 2px solid #79C0FF; padding-bottom: 10px;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> 수상 내역
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> Awards & Achievements
 </h3>
 
-<ul style="list-style-type: none; padding-left: 0;">
-  <li>🏆 공모전수상내역1</li>
-  <li>🥈 공모전수상내역2</li>
-  <li>🏅 공모전수상내역3</li>
-</ul>
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/1st%20Place%20Medal.png" alt="1st Place Medal" width="20" height="20" /></td>
+    <td>2023 AI Competition Grand Prize</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/2nd%20Place%20Medal.png" alt="2nd Place Medal" width="20" height="20" /></td>
+    <td>2022 Data Analysis Contest Silver Award</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/3rd%20Place%20Medal.png" alt="3rd Place Medal" width="20" height="20" /></td>
+    <td>2021 SW Startup Idea Competition Excellence Award</td>
+  </tr>
+</table>
 
 <h3 style="border-bottom: 2px solid #79C0FF; padding-bottom: 10px;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="25" height="25" /> 코딩 테스트 현황
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="25" height="25" /> Coding Test Status
 </h3>
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
   <a href="https://solved.ac/anzkanzk87">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anzkanzk87" alt="Solved.ac Profile">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anzkanzk87" alt="Solved.ac Profile" style="margin: 10px;">
   </a>
   <a href="https://www.codewars.com/users/anzkanzk87">
-    <img src="https://www.codewars.com/users/anzkanzk87/badges/large" alt="Codewars Profile">
+    <img src="https://www.codewars.com/users/anzkanzk87/badges/large" alt="Codewars Profile" style="margin: 10px;">
   </a>
 </div>
 
