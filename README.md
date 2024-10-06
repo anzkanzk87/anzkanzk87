@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,7,9,11,13&height=300&section=header&text=AI%20Developer%20SINWOOK&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Crafting%20Intelligence,%20Coding%20the%20Future&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30,31&height=300&section=header&text=AI%20Developer%20SINWOOK&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Crafting%20Intelligence,%20Coding%20the%20Future&descAlignY=51&descAlign=62)
 
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanzkanzk87&count_bg=%23FF69B4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://github.com/anzkanzk87)
 
@@ -15,9 +15,9 @@ AI와 머신러닝으로 창의성을 구현하는 개발자 강신욱입니다.
 
 ## 🏆 Awards & Achievements
 
-| 🥇 | 2023 AI Competition Grand Prize |
-| 🥈 | 2022 Data Analysis Contest Silver Award |
-| 🥉 | 2021 SW Startup Idea Competition Excellence Award |
+- 🥇 2023 AI Competition Grand Prize
+- 🥈 2022 Data Analysis Contest Silver Award
+- 🥉 2021 SW Startup Idea Competition Excellence Award
 
 ## 🧮 Coding Test Status
 
@@ -81,6 +81,6 @@ CNN(딥러닝) 2진분류로 쇼핑몰 포토리뷰 검수모델 서비스
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anzkanzk87/ai-media-art)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,7,9,11,13&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30,31&height=100&section=footer)
 
 </div>
