@@ -23,22 +23,6 @@ AI와 머신러닝으로 창의성을 구현하는 개발자 강신욱입니다.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anzkanzk88)](https://solved.ac/anzkanzk88)
 
-<a href="https://career.programmers.co.kr/pr/your_username" target="_blank">
-  <img src="https://img.shields.io/badge/Programmers-000000?style=for-the-badge&logo=programmers&logoColor=white" alt="Programmers" />
-</a>
-<div style="display: inline-block; background-color: #0078FF; color: white; padding: 5px 10px; font-weight: bold; border-radius: 0 5px 5px 0;">LEVEL 2</div>
-
-<table>
-  <tr>
-    <td><strong>Solved</strong></td>
-    <td><strong>Rank</strong></td>
-  </tr>
-  <tr>
-    <td>132 문제</td>
-    <td>상위 5.3%</td>
-  </tr>
-</table>
-
 ## 📞 Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:anzkanzk88@gmail.com)
