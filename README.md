@@ -21,14 +21,34 @@ AI와 머신러닝으로 창의성을 구현하는 개발자 강신욱입니다.
 </p>
 
 <h3 style="border-bottom: 2px solid #79C0FF; padding-bottom: 10px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> 수상 내역
+</h3>
+
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>🏆 공모전수상내역1</li>
+  <li>🥈 공모전수상내역2</li>
+  <li>🏅 공모전수상내역3</li>
+</ul>
+
+<h3 style="border-bottom: 2px solid #79C0FF; padding-bottom: 10px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="25" height="25" /> 코딩 테스트 현황
+</h3>
+
+<div style="display: flex; justify-content: space-around;">
+  <a href="https://solved.ac/anzkanzk87">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anzkanzk87" alt="Solved.ac Profile">
+  </a>
+  <a href="https://www.codewars.com/users/anzkanzk87">
+    <img src="https://www.codewars.com/users/anzkanzk87/badges/large" alt="Codewars Profile">
+  </a>
+</div>
+
+<h3 style="border-bottom: 2px solid #79C0FF; padding-bottom: 10px;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="25" height="25" /> Contact
 </h3>
 
 <a href="mailto:anzkanzk88@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-</a>
-<a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"> 
 </a>
 
 <h3 style="border-bottom: 2px solid #79C0FF; padding-bottom: 10px;">
@@ -44,8 +64,6 @@ AI와 머신러닝으로 창의성을 구현하는 개발자 강신욱입니다.
 <a href="https://www.notion.so/92acb205f97246fba025ea86bfc8f3a7">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge">
 </a>
-
-
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=anzkanzk88)](https://github.com/anzkanzk87/velog-readme-stats)
 
