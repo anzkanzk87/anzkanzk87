@@ -4,96 +4,28 @@
 
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanzkanzk87&count_bg=%23FF69B4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://github.com/anzkanzk87)
 
-<div style="display: flex; align-items: flex-start;">
 <img src="https://github-readme-stats.vercel.app/api?username=anzkanzk87&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anzkanzk87&layout=compact&theme=tokyonight" />
-</div>
 
-<h3 style="border-bottom: 2px solid #79C0FF; padding-bottom: 10px;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> 안녕하세요
-</h3>
+## 👋 안녕하세요
 
-<p style="font-size: 1.1em; color: #58A6FF;">
-AI와 머신러닝으로 창의성을 구현하는 개발자 강신욱입니다.<br>
-대중음악과 예술을 사랑하며, 기술을 통해 창의적인 솔루션을 만드는 것을 목표로 하고 있습니다.<br>
+AI와 머신러닝으로 창의성을 구현하는 개발자 강신욱입니다.  
+대중음악과 예술을 사랑하며, 기술을 통해 창의적인 솔루션을 만드는 것을 목표로 하고 있습니다.  
 데이터로부터 인사이트를 추출하고, 지능형 시스템을 구축하여 미래를 그려갑니다.
-</p>
 
-<style>
-  .section {
-    background-color: #0D1117;
-    border-radius: 10px;
-    padding: 20px;
-    margin-bottom: 20px;
-  }
-  .section-title {
-    color: #58A6FF;
-    border-bottom: 2px solid #58A6FF;
-    padding-bottom: 10px;
-    margin-bottom: 15px;
-    display: flex;
-    align-items: center;
-  }
-  .section-title img {
-    margin-right: 10px;
-  }
-  .awards-table {
-    width: 100%;
-    border-collapse: separate;
-    border-spacing: 0 10px;
-  }
-  .awards-table td {
-    padding: 5px;
-  }
-  .awards-table img {
-    vertical-align: middle;
-    margin-right: 10px;
-  }
-  .coding-status {
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-  }
-  .coding-status img {
-    margin: 10px;
-    max-width: 100%;
-  }
-</style>
+## 🏆 Awards & Achievements
 
-<div class="section">
-  <h3 class="section-title">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" />
-    Awards & Achievements
-  </h3>
-  <table class="awards-table">
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/1st%20Place%20Medal.png" alt="1st Place Medal" width="20" height="20" /></td>
-      <td>2023 AI Competition Grand Prize</td>
-    </tr>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/2nd%20Place%20Medal.png" alt="2nd Place Medal" width="20" height="20" /></td>
-      <td>2022 Data Analysis Contest Silver Award</td>
-    </tr>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/3rd%20Place%20Medal.png" alt="3rd Place Medal" width="20" height="20" /></td>
-      <td>2021 SW Startup Idea Competition Excellence Award</td>
-    </tr>
-  </table>
-</div>
+| 🥇 | 2023 AI Competition Grand Prize |
+|:---:|:---|
+| 🥈 | 2022 Data Analysis Contest Silver Award |
+| 🥉 | 2021 SW Startup Idea Competition Excellence Award |
 
-<div class="section">
-  <h3 class="section-title">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="25" height="25" />
-    Coding Test Status
-  </h3>
-  <div class="coding-status">
-    <a href="https://solved.ac/anzkanzk87">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anzkanzk87" alt="Solved.ac Profile">
-    </a>
-    <a href="https://www.codewars.com/users/anzkanzk87">
-      <img src="https://www.codewars.com/users/anzkanzk87/badges/large" alt="Codewars Profile">
-    </a>
-  </div>
+## 🧮 Coding Test Status
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anzkanzk87)](https://solved.ac/anzkanzk87)
+  
+[![Codewars Profile](https://www.codewars.com/users/anzkanzk87/badges/large)](https://www.codewars.com/users/anzkanzk87)
+
 </div>
 
 <h3 style="border-bottom: 2px solid #79C0FF; padding-bottom: 10px;">
