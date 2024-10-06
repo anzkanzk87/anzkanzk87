@@ -1,11 +1,11 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=AI%20Developer%20SINWOOK&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Crafting%20Intelligence,%20Coding%20the%20Future&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,7,9,11,13&height=300&section=header&text=AI%20Developer%20SINWOOK&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Crafting%20Intelligence,%20Coding%20the%20Future&descAlignY=51&descAlign=62)
 
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanzkanzk87&count_bg=%23FF69B4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://github.com/anzkanzk87)
 
-<img src="https://github-readme-stats.vercel.app/api?username=anzkanzk87&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anzkanzk87&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=anzkanzk87&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anzkanzk87&layout=compact&theme=radical" />
 
 ## 👋 안녕하세요
 
@@ -16,7 +16,6 @@ AI와 머신러닝으로 창의성을 구현하는 개발자 강신욱입니다.
 ## 🏆 Awards & Achievements
 
 | 🥇 | 2023 AI Competition Grand Prize |
-|:---:|:---|
 | 🥈 | 2022 Data Analysis Contest Silver Award |
 | 🥉 | 2021 SW Startup Idea Competition Excellence Award |
 
@@ -59,24 +58,29 @@ AI와 머신러닝으로 창의성을 구현하는 개발자 강신욱입니다.
 
 ### Memory Trip
 ComfyUI을 활용한 뮤직비디오 만들기
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anzkanzk87/ai-image-generator)
 
 ### INTERACTIVE BOOKS
 LMM 기반 텍스트 심리분석과 장면 설명도에 따른 감정 분석과 TTS기술 활용해 책읽어주는 대화형 챗봇
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anzkanzk87/nlp-chatbot)
 
 ### 쇼핑몰 포토리뷰 검수 모델 서비스
 CNN(딥러닝) 2진분류로 쇼핑몰 포토리뷰 검수모델 서비스
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anzkanzk87/recommendation-system)
 
 ### K마블 푸드여행
 컨텐츠기반의 코사인유사도 기반 향토음식 추천시스템
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anzkanzk87/ai-music-generator)
 
 ### 스마트 쉼터
 폭염관련 해결방안 데이터분석 프로젝트
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anzkanzk87/ai-media-art)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,7,9,11,13&height=100&section=footer)
 
 </div>
