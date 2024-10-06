@@ -25,8 +25,6 @@ AI와 머신러닝으로 창의성을 구현하는 개발자 강신욱입니다.
 
 [![Programmers Profile](https://img.shields.io/badge/Programmers-Level%202-blue?style=for-the-badge&logo=programmers&logoColor=white&labelColor=black)](https://career.programmers.co.kr/pr/anzkanzk88)
 
-[![Baekjoon Profile](https://img.shields.io/badge/Baekjoon-0077B5?style=for-the-badge&logo=baekjoon&logoColor=white)](https://www.acmicpc.net/user/anzkanzk88)
-
 ## 📞 Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:anzkanzk88@gmail.com)
