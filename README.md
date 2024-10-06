@@ -1,7 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=AI%20Developer%20SINWOOK&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Crafting%20Intelligence,%20Coding%20the%20Future&descAlignY=51&descAlign=62)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=AI%20Developer%20SINWOOK&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Crafting%20Intelligence,%20Coding%20the%20Future&descAlignY=51&descAlign=62)
 
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanzkanzk87&count_bg=%23FF69B4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://github.com/anzkanzk87)
 
@@ -20,36 +19,81 @@ AI와 머신러닝으로 창의성을 구현하는 개발자 강신욱입니다.
 데이터로부터 인사이트를 추출하고, 지능형 시스템을 구축하여 미래를 그려갑니다.
 </p>
 
-<h3 style="border-bottom: 2px solid #79C0FF; padding-bottom: 10px;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> Awards & Achievements
-</h3>
+<style>
+  .section {
+    background-color: #0D1117;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  .section-title {
+    color: #58A6FF;
+    border-bottom: 2px solid #58A6FF;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+  }
+  .section-title img {
+    margin-right: 10px;
+  }
+  .awards-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 10px;
+  }
+  .awards-table td {
+    padding: 5px;
+  }
+  .awards-table img {
+    vertical-align: middle;
+    margin-right: 10px;
+  }
+  .coding-status {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  .coding-status img {
+    margin: 10px;
+    max-width: 100%;
+  }
+</style>
 
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/1st%20Place%20Medal.png" alt="1st Place Medal" width="20" height="20" /></td>
-    <td>2023 AI Competition Grand Prize</td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/2nd%20Place%20Medal.png" alt="2nd Place Medal" width="20" height="20" /></td>
-    <td>2022 Data Analysis Contest Silver Award</td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/3rd%20Place%20Medal.png" alt="3rd Place Medal" width="20" height="20" /></td>
-    <td>2021 SW Startup Idea Competition Excellence Award</td>
-  </tr>
-</table>
+<div class="section">
+  <h3 class="section-title">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" />
+    Awards & Achievements
+  </h3>
+  <table class="awards-table">
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/1st%20Place%20Medal.png" alt="1st Place Medal" width="20" height="20" /></td>
+      <td>2023 AI Competition Grand Prize</td>
+    </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/2nd%20Place%20Medal.png" alt="2nd Place Medal" width="20" height="20" /></td>
+      <td>2022 Data Analysis Contest Silver Award</td>
+    </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/3rd%20Place%20Medal.png" alt="3rd Place Medal" width="20" height="20" /></td>
+      <td>2021 SW Startup Idea Competition Excellence Award</td>
+    </tr>
+  </table>
+</div>
 
-<h3 style="border-bottom: 2px solid #79C0FF; padding-bottom: 10px;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="25" height="25" /> Coding Test Status
-</h3>
-
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-  <a href="https://solved.ac/anzkanzk87">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anzkanzk87" alt="Solved.ac Profile" style="margin: 10px;">
-  </a>
-  <a href="https://www.codewars.com/users/anzkanzk87">
-    <img src="https://www.codewars.com/users/anzkanzk87/badges/large" alt="Codewars Profile" style="margin: 10px;">
-  </a>
+<div class="section">
+  <h3 class="section-title">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="25" height="25" />
+    Coding Test Status
+  </h3>
+  <div class="coding-status">
+    <a href="https://solved.ac/anzkanzk87">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anzkanzk87" alt="Solved.ac Profile">
+    </a>
+    <a href="https://www.codewars.com/users/anzkanzk87">
+      <img src="https://www.codewars.com/users/anzkanzk87/badges/large" alt="Codewars Profile">
+    </a>
+  </div>
 </div>
 
 <h3 style="border-bottom: 2px solid #79C0FF; padding-bottom: 10px;">
@@ -145,3 +189,5 @@ AI와 머신러닝으로 창의성을 구현하는 개발자 강신욱입니다.
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
+
+</div>
