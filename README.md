@@ -23,7 +23,7 @@ AI와 머신러닝으로 창의성을 구현하는 개발자 강신욱입니다.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anzkanzk88)](https://solved.ac/anzkanzk88)
 
-[![Programmers Profile](https://img.shields.io/badge/Programmers-000000?style=for-the-badge&logo=programmers&logoColor=white)](https://programmers.co.kr/pr/anzkanzk88)
+[![Programmers Profile](https://img.shields.io/badge/Programmers-Level%202-blue?style=for-the-badge&logo=programmers&logoColor=white&labelColor=black)](https://career.programmers.co.kr/pr/anzkanzk88)
 
 [![Baekjoon Profile](https://img.shields.io/badge/Baekjoon-0077B5?style=for-the-badge&logo=baekjoon&logoColor=white)](https://www.acmicpc.net/user/anzkanzk88)
 
