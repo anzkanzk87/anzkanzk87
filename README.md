@@ -77,40 +77,40 @@ AI와 머신러닝으로 창의성을 구현하는 개발자 강신욱입니다.
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <div style="width: 30%; min-width: 250px; background-color: #0D1117; border-radius: 10px; padding: 15px; margin: 10px;">
-    <h4 style="color: #58A6FF;">AI 이미지 생성 프로젝트</h4>
-    <p>GAN을 활용한 고해상도 이미지 생성 시스템</p>
+    <h4 style="color: #58A6FF;">Memory Trip</h4>
+    <p>ComfyUI을 활용한 뮤직비디오 만들기</p>
     <a href="https://github.com/anzkanzk87/ai-image-generator">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
     </a>
   </div>
   
   <div style="width: 30%; min-width: 250px; background-color: #0D1117; border-radius: 10px; padding: 15px; margin: 10px;">
-    <h4 style="color: #58A6FF;">자연어 처리 챗봇</h4>
-    <p>BERT 기반 다국어 지원 챗봇 시스템</p>
+    <h4 style="color: #58A6FF;">INTERACTIVE BOOKS</h4>
+    <p>LMM 기반 텍스트 심리분석과 장면 설명도에 따른 감정 분석과 TTS기술 활용해 책읽어주는 대화형 챗봇</p>
     <a href="https://github.com/anzkanzk87/nlp-chatbot">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
     </a>
   </div>
   
   <div style="width: 30%; min-width: 250px; background-color: #0D1117; border-radius: 10px; padding: 15px; margin: 10px;">
-    <h4 style="color: #58A6FF;">추천 시스템 개발</h4>
-    <p>협업 필터링을 이용한 영화 추천 시스템</p>
+    <h4 style="color: #58A6FF;">쇼핑몰 포토리뷰 검수 모델 서비스</h4>
+    <p>CNN(딥러닝) 2진분류로 쇼핑몰 포토리뷰 검수모델 서비스</p>
     <a href="https://github.com/anzkanzk87/recommendation-system">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
     </a>
   </div>
 
   <div style="width: 30%; min-width: 250px; background-color: #0D1117; border-radius: 10px; padding: 15px; margin: 10px;">
-    <h4 style="color: #58A6FF;">AI 음악 생성 프로젝트</h4>
-    <p>RNN을 이용한 음악 생성 시스템으로, AI가 창작하는 새로운 멜로디</p>
+    <h4 style="color: #58A6FF;">K마블 푸드여행</h4>
+    <p>컨텐츠기반의 코사인유사도 기반 향토음식 추천시스템</p>
     <a href="https://github.com/anzkanzk87/ai-music-generator">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
     </a>
   </div>
 
   <div style="width: 30%; min-width: 250px; background-color: #0D1117; border-radius: 10px; padding: 15px; margin: 10px;">
-    <h4 style="color: #58A6FF;">AI 미디어 아트</h4>
-    <p>GAN과 AI 기술을 활용한 예술 작품 생성 프로젝트</p>
+    <h4 style="color: #58A6FF;">스마트 쉼터</h4>
+    <p>폭염관련 해결방안 데이터분석 프로젝트</p>
     <a href="https://github.com/anzkanzk87/ai-media-art">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
     </a>
