@@ -15,7 +15,9 @@ AI와 머신러닝으로 창의성을 구현하는 개발자 강신욱입니다.
 
 ## 🏆 Awards & Achievements
 
+
 🥈 2024 서울시 XR디바이스 콘텐츠 아이디어톤 우수상 수상(Heartalk+)
+
 🥉 2024 서울시 Aiot 해커톤 장려상 수상(해안가: 해충으로부터 안전한 가)  
 
 ## 🧮 Coding Test Status
