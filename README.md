@@ -15,7 +15,6 @@ AI와 머신러닝으로 창의성을 구현하는 개발자 강신욱입니다.
 
 ## 🏆 Awards & Achievements
 
-
 🥈 2024 서울시 XR디바이스 콘텐츠 아이디어톤 우수상 수상(Heartalk+)
 
 🥉 2024 서울시 Aiot 해커톤 장려상 수상(해안가: 해충으로부터 안전한 가)  
@@ -80,27 +79,27 @@ AI와 머신러닝으로 창의성을 구현하는 개발자 강신욱입니다.
 ### Memory Trip
 ComfyUI을 활용한 뮤직비디오 만들기
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anzkanzk87/ai-image-generator)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/92acb205f97246fba025ea86bfc8f3a7)
 
 ### INTERACTIVE BOOKS
 LMM 기반 텍스트 심리분석과 장면 설명도에 따른 감정 분석과 TTS기술 활용해 책읽어주는 대화형 챗봇
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anzkanzk87/nlp-chatbot)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/4-4-INTERACTIVE-BOOKS-10f19d70ad4e808288a8d2e484625ed7)
 
 ### 쇼핑몰 포토리뷰 검수 모델 서비스
 CNN(딥러닝) 2진분류로 쇼핑몰 포토리뷰 검수모델 서비스
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anzkanzk87/recommendation-system)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/3-CNN-5e1ee0fbb60a49b0b614ecf415966c81)
 
 ### K마블 푸드여행
 컨텐츠기반의 코사인유사도 기반 향토음식 추천시스템
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anzkanzk87/ai-music-generator)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/2-ML-K-3bc04ea601334276a7ebcc77c6c5e149)
 
 ### 스마트 쉼터
 폭염관련 해결방안 데이터분석 프로젝트
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anzkanzk87/ai-media-art)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/1-59f26859d95f4fd0bd3760031accedbd)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,23,22,21,20&height=100&section=footer)
 
